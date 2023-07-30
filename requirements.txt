@@ -1,8 +1,5 @@
 streamlit
 pandas
-<<<<<<< HEAD
-scikit-learn
-=======
 scikit-learn
 streamlit_option_menu
->>>>>>> 6de0fd4 (Initial commit)
+
